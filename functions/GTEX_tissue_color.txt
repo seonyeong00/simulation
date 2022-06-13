@@ -1,0 +1,53 @@
+FF6600	Adipose - Subcutaneous	2190	Subcutaneous tissue beneath the leg's skin sample.
+FF9900	Adipose - Visceral (Omentum)	10414	Adipose tissue on the large fold of parietal peritoneum that hangs down from the greater curvature of the stomach, passing in front of the small intestines.
+33CC00	Adrenal Gland	2369	Left, followed by the right if necessary for sufficient aliquots.
+FF3333	Artery - Aorta	1496	Ascending aorta or other thoracic regions (nonatherosclerotic).
+FF9999	Artery - Coronary	1621	Left and right, noncalcific regions only.
+FF0000	Artery - Tibial	7610	Left tibial.
+990000	Bladder	1255	Central posterior urinary bladder, trimming from the outer wall if necessary.
+FFFF00	Brain - Amygdala	1876	Amygdala.
+FFFF00	Brain - Anterior cingulate cortex (BA24)	9835	Anterior cingulate cortex.
+FFFF00	Brain - Caudate (basal ganglia)	1873	Caudate.
+FFFF00	Brain - Cerebellar Hemisphere	2037	Cerebellar hemisphere.
+FFFF00	Brain - Cerebellum	2037	Right cerebellum.
+FFFF00	Brain - Cortex	1870	Right cerebral frontal pole cortex.
+FFFF00	Brain - Frontal Cortex (BA9)	9834	Right cerebral frontal pole cortex.
+FFFF00	Brain - Hippocampus	1954	Hippocampus.
+FFFF00	Brain - Hypothalamus	1898	Hypothalamus.
+FFFF00	Brain - Nucleus accumbens (basal ganglia)	1882	Nucleus accumbens basal ganglia.
+FFFF00	Brain - Putamen (basal ganglia)	1874	Putamen basal ganglia.
+FFFF00	Brain - Spinal cord (cervical c-1)	6469	Spinal cord.
+FFFF00	Brain - Substantia nigra	2038	Substantia nigra.
+33CCCC	Breast - Mammary Tissue	8367	Central breast subareolar region of the right breast, 1-2 cm under the skin surface of nipple region.
+CC33FF	Cells - EBV-transformed lymphocytes	EFO_0000572	Transformed lymphocytes.
+99FFFF	Cells - Transformed fibroblasts	EFO_0002009	Transformed fibroblasts.
+FFCCCC	Cervix - Ectocervix	12249	Ectocervix (squamous) from uterus. Bivalve uterus along the endocervical canal to open uterus and cervix from external os to fundus.
+CC99CC	Cervix - Endocervix	458	Endocervix (glandular) from uterus. Bivalve uterus along the endocervical canal to open uterus and cervix from external os to fundus.
+FFCC66	Colon - Sigmoid	1159	Sigmoid Colon.
+CC9966	Colon - Transverse	1157	Transverse colon.
+666633	Esophagus - Gastroesophageal Junction	4550	Muscularis propria in the lowest portion of the esophagus just proximal to the stomach.
+330000	Esophagus - Mucosa	6920	Squamous region (distal/lower third), at least 4 cm above gastroesophageal junction.
+CC9999	Esophagus - Muscularis	4648	Squamous region (distal/lower third), at least 4 cm above gastroesophageal junction.
+FFCCCC	Fallopian Tube	3889	Left (and right if needed for sufficient aliquots) starting at, and to include, fimbriated end.
+9900FF	Heart - Atrial Appendage	6631	Atrial appendage of the heart.
+660099	Heart - Left Ventricle	6566	Anterior left ventricle, 1 cm above apex and 1 cm from left anterior descending coronary artery.
+33FFCC	Kidney - Cortex	1225	Left cortex.
+99CC66	Liver	1114	Central right lobe, 1 cm below capsule.
+99FF00	Lung	8952	Inferior segment of left upper lobe, 1 cm below the pleural surface.
+669966	Minor Salivary Gland	6330	Inner surface of lower lip.
+9999FF	Muscle - Skeletal	11907	The gastrocnemius muscle, 2 cm below the patella.
+FFCC00	Nerve - Tibial	1323	Left tibial.
+FF99FF	Ovary	992	Most normal regions of the left ovary (and right if necessary to obtain sufficient aliquots).
+663300	Pancreas	1150	Mid-portion (not tail).
+99FF99	Pituitary	7	Entire pituitary gland.
+CCCCCC	Prostate	2367	Non-nodular region of representative region.
+0000FF	Skin - Not Sun Exposed (Suprapubic)	36149	Extension of the abdominal incision to the suprapubic area avoiding pubic hair.
+6666FF	Skin - Sun Exposed (Lower leg)	4264	Left or right leg 2 cm below patella on medial side.
+333300	Small Intestine - Terminal Ileum	1211	Thickened mucosa corresponding to lymphoid nodules (Peyer Patches) just proximal to the ileocecal valve in the most distal part of the small intestine.
+666633	Spleen	2106	Central region, 5 mm below capsule.
+FFCC99	Stomach	945	Body.
+999999	Testis	473	Left testis (and right testis if necessary to obtain sufficient tissue for aliquots).
+006600	Thyroid	2046	Most grossly non-nodular normal regions from either side (whichever side is observed to be more normal).
+FF33FF	Uterus	995	Corpus. Bivalve uterus along endocervical canal to fundus.
+FF3399	Vagina	996	Anterior.
+FF0099	Whole Blood	13756	Femoral vein; subclavian vein and heart are other possible sites.
